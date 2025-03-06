@@ -16,11 +16,11 @@
 # SQL Tasks:
 
 # Task 1: Upload Dataset into MySQL
-1 **Install MySQL and create a new database (ZomatoDB).**
-2 **Create two tables:**
+* **Install MySQL and create a new database (ZomatoDB).**
+* **Create two tables:**
   * **Zomato_Restaurants**
   * **Zomato_Orders**
-3 **Import the Zomato_Orders.csv and Zomato_Restaurants.csv files into MySQL.**
+* **Import the Zomato_Orders.csv and Zomato_Restaurants.csv files into MySQL.**
 
 create database ZomatoDB;
 use ZomatoDB;
