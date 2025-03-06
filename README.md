@@ -47,7 +47,7 @@ alter table Zomato_Restaurants add constraint unique_Restaurant_ID unique (Resta
 alter table Zomato_Restaurants add primary key (Restaurant_ID);
 
 # Task 2: Perform Simple Data Transformations Using SQL
-# Basic Data Cleaning
+# **Basic Data Cleaning**
 Remove duplicate records.
 Handle NULL values (if any) by replacing them with appropriate values.
 Data Exploration Queries
