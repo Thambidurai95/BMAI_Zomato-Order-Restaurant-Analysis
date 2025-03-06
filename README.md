@@ -30,6 +30,7 @@ desc Zomato_Orders;
 desc Zomato_Restaurants;
 
 * **Zomato Orders Table**
+
 desc Zomato_Orders;
 alter table Zomato_Orders add constraint unique_Order_ID unique (Order_ID);
 alter table Zomato_Orders modify column Order_ID varchar(50);
@@ -39,6 +40,7 @@ alter table Zomato_Orders modify column Order_Date datetime;
 alter table Zomato_Orders add foreign key (Restaurant_ID) references Zomato_Restaurants (Restaurant_ID);
 
 * **Zomato Restaurant table**
+
 desc Zomato_Restaurants;
 alter table Zomato_Restaurants modify column Restaurant_ID varchar(50);
 alter table Zomato_Restaurants add constraint unique_Restaurant_ID unique (Restaurant_ID);
