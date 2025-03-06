@@ -15,4 +15,33 @@
 
 # SQL Tasks:
 
+# Task 1: Upload Dataset into MySQL
+**Install MySQL and create a new database (ZomatoDB).
+Create two tables:
+Zomato_Restaurants
+Zomato_Orders
+Import the Zomato_Orders.csv and Zomato_Restaurants.csv files into MySQL.**
+
+create database ZomatoDB;
+use ZomatoDB;
+select * from Zomato_Orders;
+select * from Zomato_Restaurants;
+desc Zomato_Orders;
+desc Zomato_Restaurants;
+
+* **Zomato Orders Table**
+desc Zomato_Orders;
+alter table Zomato_Orders add constraint unique_Order_ID unique (Order_ID);
+alter table Zomato_Orders modify column Order_ID varchar(50);
+alter table Zomato_Orders add primary key (Order_ID);
+alter table Zomato_Orders modify column Restaurant_ID varchar(50);
+alter table Zomato_Orders modify column Order_Date datetime;
+alter table Zomato_Orders add foreign key (Restaurant_ID) references Zomato_Restaurants (Restaurant_ID);
+
+* **Zomato Restaurant table**
+desc Zomato_Restaurants;
+alter table Zomato_Restaurants modify column Restaurant_ID varchar(50);
+alter table Zomato_Restaurants add constraint unique_Restaurant_ID unique (Restaurant_ID);
+alter table Zomato_Restaurants add primary key (Restaurant_ID);
+
 # Power BI Tasks:
