@@ -116,37 +116,48 @@ select * from Zomato_Restaurants;
 # Line Chart
 * **Order Amount Trends Over Time**
 
+![image](https://github.com/user-attachments/assets/29762fcf-673a-4faa-9df3-8f140aad9a51)
 
 
 # Scatter Plot
 * **Correlation of Factors Affecting Average Rating**
 
+![image](https://github.com/user-attachments/assets/0e8ef0c0-f8b9-4974-8217-98c603373016)
 
 
 # Column Chart
 * **Top 5 Restaurants by Total Sales**
 
+![image](https://github.com/user-attachments/assets/8fdb24e2-8753-46f9-9ce3-59563d5a0968)
 
 
 # Tree Map
 * **Revenue by Area Using a Tree Map**
 
+![image](https://github.com/user-attachments/assets/3e1f2af5-2410-4b5d-a6de-cabac4519b56)
 
 
 # Heat Map
 * **Order Density by City Using a Heat Map**
 
+![image](https://github.com/user-attachments/assets/d9ad86af-49ac-4315-97a9-6d111e1dea4b)
 
 
 # KPI Cards
 * **KPI Cards – Total Revenue & Average Order Value**
 
+![image](https://github.com/user-attachments/assets/9ecca976-4746-43a5-8d81-0f6b0be90bd5)
 
 
 # Data Table
 * **Restaurant-Wise Sales Summary in a Table**
 
+![image](https://github.com/user-attachments/assets/a54d490d-f49a-469b-9889-199951cfe6c8)
 
 
 # Power BI Dashboard
 * **Power BI Dashboard – Combining All Visuals**
+
+![image](https://github.com/user-attachments/assets/f78cfeac-32e3-40ea-904f-06f7d73f6eb3)
+
+
