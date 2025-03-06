@@ -104,11 +104,13 @@ select * from Zomato_Restaurants;
 # Bar Chart
 * **Number of Restaurants per City**
 
+![image](https://github.com/user-attachments/assets/dd877eca-d3b2-462c-9f22-1aa44b40ee01)
 
 
 # Pie Chart
 * **Percentage of Orders from Different Cities**
 
+![image](https://github.com/user-attachments/assets/9344cf62-209b-4e9d-8afc-d3a1bd3ff653)
 
 
 # Line Chart
