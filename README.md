@@ -101,3 +101,50 @@ select * from Zomato_Orders;
 select * from Zomato_Restaurants;
 
 # Power BI Tasks:
+# Bar Chart
+* **Number of Restaurants per City**
+
+
+
+# Pie Chart
+* **Percentage of Orders from Different Cities**
+
+
+
+# Line Chart
+* **Order Amount Trends Over Time**
+
+
+
+# Scatter Plot
+* **Correlation of Factors Affecting Average Rating**
+
+
+
+# Column Chart
+* **Top 5 Restaurants by Total Sales**
+
+
+
+# Tree Map
+* **Revenue by Area Using a Tree Map**
+
+
+
+# Heat Map
+* **Order Density by City Using a Heat Map**
+
+
+
+# KPI Cards
+* **KPI Cards – Total Revenue & Average Order Value**
+
+
+
+# Data Table
+* **Restaurant-Wise Sales Summary in a Table**
+
+
+
+# Power BI Dashboard
+* **Power BI Dashboard – Combining All Visuals**
