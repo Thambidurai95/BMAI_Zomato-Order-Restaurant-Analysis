@@ -13,4 +13,6 @@
 
 ![ER Diagram](https://github.com/user-attachments/assets/fdf9e0e0-0e33-4b44-8e38-9c12898591a4)
 
+# SQL Tasks:
 
+# Power BI Tasks:
